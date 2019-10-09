@@ -7,22 +7,23 @@ I am  Kang wang, I will be talking about ERP in the modern workplace. so what is
 
 data integration ( data entered once into one databaese):
 
-eg, my company Fliway logictics and transporsation company have order management system and warehouse management system (WMS) and Customer Relationship Managementv (CRM), Accounting system, they don't need consider about data integration using spreadsheet or mutiple data entry team for different system.
+eg, my company Fliway logictics and transporsation company have order management system and warehouse management system (WMS) and Customer Relationship Management (CRM), Accounting system, they don't need consider about data integration using spreadsheet or mutiple data entry team for different system.
 
 
-reduction of cost of operation
+
+
+
+
+increase in productivity
 
 Flow of information. ERP lets your business information flow smoothly and efficiently across all departments. You'll be able to see what's happening in your business in real- or near-real time
 
 Improved invoicing. ERP can speed up your business cycle with timely invoicing. The faster your invoices go out, the quicker you get paid.
 
 
-increase in productivity
-
 They share a central database
 Integration with Customer Relationship Management
 ERP Improves efficiency across departments
-
 
 
 
