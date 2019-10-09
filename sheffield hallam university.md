@@ -1,7 +1,10 @@
 include the identification of key factors intrinsic to NetSuite and ERP systems in general, focusing on:
 
 
-I am  Kang wang, I will be talking about ERP in the modern workplace. so what is the erp system ? erp stand for Enterprise resource planning (ERP) is business process management software. in other words, it is a tool for managing information. so how do you organize information in your busineess? I bet you have customer database (CRM) and something manageing your orders or warehouse, an accounting system, but none of thesee talk to each other they don't share data. it is what people call islands of information which impacts efficiency. but efficiency is connected to time and money.   erp  can compraise with customer service (CRM system), accounting distribution system. 
+
+Hi everyone, let me briefly introduce myself. My name is Kang wang. and I am delight to be here today to talk with you about ERP system in modern workplace. my presnetnation is divide into 4 parts:
+
+so what is the erp system ? erp stand for Enterprise resource planning (ERP) is business process management software. in other words, it is a tool for managing information. so how do you organize information in your busineess? I bet you have customer database (CRM) and something manageing your orders or warehouse, an accounting system, but none of thesee talk to each other they don't share data. it is what people call islands of information which impacts efficiency. but efficiency is connected to time and money.   erp  can compraise with customer service (CRM system), accounting distribution system. 
 
 1. Benefits of ERP system
 
@@ -29,7 +32,6 @@ ERP Improves efficiency across departments
 
 2. The importance of good business information
 
-safety and security
 
 find an porblem for your business
 
@@ -44,7 +46,8 @@ as result, I reccommand to raise sales salary to hire experienced sales or give 
 
 
 
-improve efficiency
+security and safety
+
 
 
 
@@ -52,7 +55,7 @@ improve efficiency
 
 security
 
-small to mid-siez companies simply cannot offer the level of phsical and data security 
+small to mid-siez companies simply cannot offer the level of phsical and data security. but proiders with cloud security certification are sure to employ indiiduals who are qualified and experienced with configuring cloub seriers and keeping client data secure.
 
 
 stability

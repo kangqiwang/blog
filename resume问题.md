@@ -35,7 +35,7 @@ we can finish our work within 10 hours everyday. and everybody wanted to have di
 
 The company's performance declined in the year when I went. During the meeting, the sales department complained that the candidates given by the Human Resource department were of low quality and had little experience. The Human Resource department said that the sales department was poorly managed, the experienced employees were resigned, and the new staff training was insufficient. The sales department complained that the transportation department was too inefficient, resulting in insufficient competitiveness. The customer service responded that the customer responded well.
 
-The data that I and my leaders discussed and obtained from erp, crm, hr, using data visualization, can make everyone clearly see that because the average sales performance is good, although we have a large number of new customers, we are lost. Several old salesmen, and lost their big customers. This led to a slight downswing in overall performance. and newer commer sales foucus on getting the new customer, but the revenue is low than perious customers.
+The data that I and my leaders discussed and obtained from erp, crm, hr, using data visualization, can make everyone clearly see that because the average sales performance is good, although we have a large number of new customers, we lost few experienced salesmen, and lost their big customers. This led to a slight downswing in overall performance. and newer commer sales foucus on getting the new customer, but the revenue is low than perious customers.
 
 as result, I reccommand to raise sales salary to hire experienced sales or give them property tranning.
 
@@ -43,7 +43,7 @@ as result, I reccommand to raise sales salary to hire experienced sales or give 
 3. serviceTracker
 
 客户提出新的需求想要
-one day customer proposal a new demand about their work based on route optimisation based on salesforce.
+one day customer proposal a new demand about route optimisation based on salesforce.
 because most of our customer is in pest control and water hygiene industry, so they need send their employee to customer's location every day .they would like to have a route optimisation system to save their money and time by planning the most efficient route. but it quite complex than we expected because we have a different type of visits and different resources, specific arrival time. 
 my strategy is using the agile principle to develop a simple demo version and then Iterate it. during this my iterate, I keep connecting with our customer and manager to keep up their different demands. because it is too complex, sometimes I discuss with my lecture to make sure if there are some cutting edge technology I can use.
 as a result, I finished route optimisation version 1 . and made good friends with my colleague and academic staff.
