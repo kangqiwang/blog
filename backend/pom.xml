@@ -96,6 +96,7 @@
 	</dependencies>
 
 	<build>
+        <finalName>kang7Site</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.asciidoctor</groupId>
