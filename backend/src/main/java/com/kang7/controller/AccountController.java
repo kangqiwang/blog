@@ -1,15 +1,15 @@
-package com.kang7.blog.controller;
+package com.kang7.controller;
 
-import cn.hutool.core.lang.Assert;
 import cn.hutool.core.map.MapUtil;
 import cn.hutool.crypto.SecureUtil;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
-import com.kang7.blog.common.Result;
-import com.kang7.blog.common.dto.LoginDto;
-import com.kang7.blog.entity.User;
-import com.kang7.blog.service.UserService;
-import com.kang7.blog.util.JwtUtils;
-
+import com.kang7.common.dto.LoginDto;
+import com.kang7.common.Result;
+import com.kang7.entity.User;
+import com.kang7.service.UserService;
+import com.kang7.shiro.AccountProfile;
+import com.kang7.shiro.JwtToken;
+import com.kang7.util.JwtUtils;
 import io.jsonwebtoken.Jwt;
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.*;
@@ -21,6 +21,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
+import cn.hutool.core.lang.Assert;
 
 import javax.servlet.http.HttpServletResponse;
 
@@ -74,6 +75,11 @@ public class AccountController {
         }
     }
 
+    /**
+     * 退出登录
+     *
+     * @return
+     */
     @RequiresAuthentication
     @GetMapping("/logout")
     public Result logout() {
